@@ -1,0 +1,4 @@
+Hello, welcome to my bad triangle calculator
+To exit, input 1
+To run, input 2
+To get this help, input h (or just in general)
